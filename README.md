@@ -47,4 +47,4 @@ pdf转img vite版本
   
   
  * 注意:
- 前端构建工具为webpack请使用[pdftoimg-dist](https://github.com/sudong0701/pdfToImg-dist)
+ 前端构建工具为webpack请使用[pdftoimg-dist](https://github.com/sudong0701/pdfToImg)
